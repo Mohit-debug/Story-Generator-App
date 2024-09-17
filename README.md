@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Project Logo](assets\background2.jpg)
+![Project Banner](https://github.com/Mohit-debug/Story-Generator-App/blob/main/assets/background2.jpg)
 
 ## Getting Started
 
