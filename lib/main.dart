@@ -103,7 +103,8 @@ class _ChatScreenState extends State<ChatScreen> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text(
+                  Flexible(
+                   child: Text(
                     'Story Generator ...',
                     style: TextStyle(
                       color: Color.fromARGB(255, 184, 167, 13), 
@@ -111,6 +112,7 @@ class _ChatScreenState extends State<ChatScreen> {
                       fontWeight: FontWeight.bold,
                     ),
                     textAlign: TextAlign.center,
+                   ),
                   ),
                   SizedBox(width: 8), 
                   Image(
