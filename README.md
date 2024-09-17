@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Project Banner](assets\background2.jpg)
+![Project Logo](assets\background2.jpg)
 
 ## Getting Started
 
