@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Project Banner](assets\background2.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
